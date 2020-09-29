@@ -11,21 +11,32 @@ Professor da Disciplina: Giuliano Bertoti
  
 
 Aluno: Renato Borges Gallo Junior - RA: 1460281623032
-Orientador: nome
+Orientador: Diogo Branquinho Ramos
 
  
 
-Título do TG: Desenvolvimento e implantação de Bot no e-commerce da Thule Store Colinas
+Título do TG: Aplicativo de gerenciamento para o Moto Clube Guardiões
 
 
  
 
 
-# 1ª Quinzena de maio
+# 1. Introdução
 
  
 
-Under construction!
+Breve introdução do Guardiões M.C. 
+Relato das dificuldades
+A partir dessas dificuldades, surgiu a ideia de desenvolver um app para gerir os dados financeiros dos membros e gerenciar a agenda de eventos e reuniões.
+
+1.1 Objetivos do Trabalho 
+
+- Objetivos especificos:
+
+a)
+b)
+c)
+d)
 
  
 
